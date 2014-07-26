@@ -1,0 +1,38 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): time 1/0.1
+1 moves/0 minutes primary time control
+1 moves/0 minutes secondary time control
+White(1): b2b3
+              time used:  16.72
+time control reached (white)
+              time surplus   0.00  time limit 0.00 (+0.00) (0.00)
+              depth   time  score   variation (1)
+              time=0.02  mat=0  n=5070  fh=93%  nps=1.0M
+              extensions=11 qchecks=6 reduced=320 pruned=37
+              predicted=0  evals=3K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.02
+Black(1): Nc6
+              time used:   0.02
+time control reached (black)
+White(2): Nf3 [pondering]
+              time surplus   0.00  time limit 0.00 (+0.00) (0.00)
+              depth   time  score   variation (5)
+               10->   0.35  -0.24   2. ... Nf6 3. Nc3 e6 4. e3 Bd6 5. Bd3
+                                    O-O 6. O-O Ng4 7. Bb2
+               11     0.53  -0.24   2. ... Nf6 3. e3 e6 4. Bd3 Bc5 5. Nc3
+                                    O-O 6. O-O Nb4 7. Bc4 d6
+               11->   0.67  -0.24   2. ... Nf6 3. e3 e6 4. Bd3 Bc5 5. Nc3
+                                    O-O 6. O-O Nb4 7. Bc4 d6
+               12     1.54  -0.40   2. ... Nf6 3. e3 e5 4. Nc3 e4 5. Ng5
+                                    d5 6. Be2 h6 7. Nh3 d4 8. Nb5
+               12->   1.71  -0.40   2. ... Nf6 3. e3 e5 4. Nc3 e4 5. Ng5
+                                    d5 6. Be2 h6 7. Nh3 d4 8. Nb5
+               13     2.63  -0.32   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. d3 Bg4 8. Be3 Nd4
+               13->   3.27  -0.32   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. d3 Bg4 8. Be3 Nd4
+               14     4.66  -0.24   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. Na4 Nxe4 8. d3 Nf6
+                                    9. Nxc5 dxc5

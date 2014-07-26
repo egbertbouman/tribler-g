@@ -1,0 +1,45 @@
+
+Crafty v23.2 PS (1 cpus)
+
+feature done=1
+White(1): long
+Illegal move: long
+White(1): output long
+output moves in long algebraic format
+White(1): ponder off
+pondering disabled.
+White(1): time 60/1
+time remaining:   0.60 (Crafty).
+White(1): d2d4
+              time used:   2:54
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.06)
+              depth   time  score   variation (1)
+              time=0.01  mat=0  n=6224  fh=93%  nps=1.0M
+              extensions=41 qchecks=84 reduced=355 pruned=594
+              predicted=0  evals=3K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.01
+Black(1): Nb8c6
+              time used:   0.01
+White(2): e2e3
+              time used:   9.14
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.06)
+              depth   time  score   variation (1)
+              time=0.02  mat=0  n=8159  fh=90%  nps=1.0M
+              extensions=147 qchecks=163 reduced=463 pruned=435
+              predicted=0  evals=4K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.02
+Black(2): e7e6
+              time used:   0.02
+White(3): f2f3
+              time used:  17.67
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.19)
+              depth   time  score   variation (1)
+              time=0.02  mat=0  n=3601  fh=85%  nps=1.0M
+              extensions=135 qchecks=238 reduced=91 pruned=116
+              predicted=0  evals=1K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.02
+Black(3): Bf8b4+
+              time used:   0.02

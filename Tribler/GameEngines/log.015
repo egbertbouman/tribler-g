@@ -1,0 +1,30 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): ponder off
+pondering disabled.
+White(1): help
+White(1): black
+Black(1): black
+Black(1): white
+White(1): white
+White(1): white
+White(1): black
+Black(1): white
+White(1): move a2a3
+              time surplus   0.00  time limit 30.00 (+0.00) (3:00)
+              depth   time  score   variation (1)
+               11     0.33   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               11->   0.38   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               12     0.50   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               12->   0.66   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               13     1.31   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+               13->   1.97   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1

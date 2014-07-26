@@ -1,0 +1,20 @@
+
+Crafty v23.2 PS (1 cpus)
+
+feature done=1
+White(1): ponder off
+pondering disabled.
+White(1): time 60/1
+time remaining:   0.60 (Crafty).
+White(1): d2d3
+              time used:  13.38
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.06)
+              depth   time  score   variation (1)
+              time=0.02  mat=0  n=5942  fh=93%  nps=1.0M
+              extensions=28 qchecks=117 reduced=431 pruned=190
+              predicted=0  evals=3K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.02
+Black(1): Nc6
+              time used:   0.02
+White(2): new

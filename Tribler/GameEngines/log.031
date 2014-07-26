@@ -1,0 +1,18 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): xboard 
+White(1): st 0.01
+search time set to 0.01.
+White(1): ponder off
+pondering disabled.
+White(1): move
+              time surplus   0.00  time limit 0.01 (+0.00) (0.01)
+              depth   time  score   variation (1)
+              time=0.02  mat=0  n=2508  fh=96%  nps=1.0M
+              extensions=0 qchecks=7 reduced=183 pruned=36
+              predicted=0  evals=1K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.02
+White(1): Nf3
+              time used:   0.02
+feature done=1

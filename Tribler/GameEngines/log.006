@@ -1,0 +1,58 @@
+
+Crafty v23.2 PS (1 cpus)
+
+feature done=1
+White(1): time 1/0.2
+time remaining:   0.01 (Crafty).
+White(1): b2b3
+              time used:  13.09
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.00)
+              depth   time  score   variation (1)
+              time=0.01  mat=0  n=824  fh=95%  nps=1.0M
+              extensions=0 qchecks=1 reduced=44 pruned=0
+              predicted=0  evals=415  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.01
+Black(1): Nc6
+              time used:   0.01
+White(2): Nf3 [pondering]
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.00)
+              depth   time  score   variation (3)
+               10->   0.25  -0.24   2. ... Nf6 3. Nc3 e6 4. e3 Bd6 5. Bd3
+                                    O-O 6. O-O Ng4 7. Bb2
+               11     0.49  -0.15   2. ... Nf6 3. Nc3 d5 4. e3 e5 5. Bb5
+                                    d4 6. Bxc6+ bxc6 7. Ne2 dxe3 8. Nxe5
+               11->   0.58  -0.15   2. ... Nf6 3. Nc3 d5 4. e3 e5 5. Bb5
+                                    d4 6. Bxc6+ bxc6 7. Ne2 dxe3 8. Nxe5
+               12     1.17  -0.24   2. ... Nf6 3. Nc3 e5 4. e3 Bc5 5. Bd3
+                                    O-O 6. O-O d5 7. Bb2 e4 8. Na4
+               12     2.02  -0.36   2. ... e5 3. Nc3 d5 4. e4 d4 5. Na4
+                                    Nf6 6. Bd3 Bd6 7. O-O O-O 8. Bb2
+               12->   2.06  -0.36   2. ... e5 3. Nc3 d5 4. e4 d4 5. Na4
+                                    Nf6 6. Bd3 Bd6 7. O-O O-O 8. Bb2
+               13     4.43  -0.19   2. ... e5 3. e4 Nf6 4. Bd3 Nb4 5. O-O
+                                    Nxd3 6. cxd3 d5 7. Nc3 Bg4 8. Re1 d4
+               13     5.74  -0.32   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. d3 <HT>
+               13->   5.96  -0.32   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. d3 <HT>
+               14     7.16  -0.24   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. Na4 Nxe4 8. d3 Nf6
+                                    9. Nxc5 dxc5
+               14->   8.90  -0.24   2. ... Nf6 3. Nc3 e5 4. e4 Bc5 5. Bc4
+                                    O-O 6. O-O d6 7. Na4 Nxe4 8. d3 Nf6
+                                    9. Nxc5 dxc5
+White(2): ponder off
+pondering disabled.
+White(2): c2c3
+              time used:  24.50
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 0.01 (+0.00) (0.00)
+              depth   time  score   variation (1)
+              time=0.01  mat=0  n=4659  fh=94%  nps=1.0M
+              extensions=6 qchecks=3 reduced=399 pruned=224
+              predicted=0  evals=2K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.01
+Black(2): Nf6
+              time used:   0.01

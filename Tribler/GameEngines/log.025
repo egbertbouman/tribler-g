@@ -1,0 +1,88 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): xboard
+White(1): time 60/1
+time remaining:   0.60 (Crafty).
+White(1): ponder off
+pondering disabled.
+White(1): move
+              time surplus   0.00  time limit 30.00 (+0.00) (3:00)
+              depth   time  score   variation (1)
+               11     0.23   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               11->   0.26   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               12     0.32   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               12->   0.43   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               13     0.82   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+               13->   1.25   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+               14     2.06   0.17   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. d4
+                                    d5 5. e5 Ne4 6. Nxe4 dxe4 7. Bg5 Bb4+
+                                    8. c3
+               14->   2.43   0.17   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. d4
+                                    d5 5. e5 Ne4 6. Nxe4 dxe4 7. Bg5 Bb4+
+                                    8. c3
+               15     4.47   0.30   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. e5
+                                    Nd5 5. Nxd5 exd5 6. d4 d6 7. Bd3 dxe5
+                                    8. dxe5 Bb4+ 9. Bd2
+               15->   4.99   0.30   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. e5
+                                    Nd5 5. Nxd5 exd5 6. d4 d6 7. Bd3 dxe5
+                                    8. dxe5 Bb4+ 9. Bd2
+               16     8.69   0.21   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6
+               16->  10.70   0.21   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6
+               17    24.52   0.40   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6 9. Bf4
+               17->  26.42   0.40   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6 9. Bf4
+              time=30.12  mat=0  n=41876432  fh=91%  nps=1.4M
+              extensions=703K qchecks=577K reduced=4.6M pruned=11.4M
+              predicted=0  evals=18.1M  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=30.12
+White(1): Nf3
+              time used:  30.12
+
+       +---+---+---+---+---+---+---+---+
+    8  |<R>|<N>|<B>|<Q>|<K>|<B>|<N>|<R>|
+       +---+---+---+---+---+---+---+---+
+    7  |<P>|<P>|<P>|<P>|<P>|<P>|<P>|<P>|
+       +---+---+---+---+---+---+---+---+
+    6  |   | . |   | . |   | . |   | . |
+       +---+---+---+---+---+---+---+---+
+    5  | . |   | . |   | . |   | . |   |
+       +---+---+---+---+---+---+---+---+
+    4  |   | . |   | . |   | . |   | . |
+       +---+---+---+---+---+---+---+---+
+    3  | . |   | . |   | . |-N-| . |   |
+       +---+---+---+---+---+---+---+---+
+    2  |-P-|-P-|-P-|-P-|-P-|-P-|-P-|-P-|
+       +---+---+---+---+---+---+---+---+
+    1  |-R-|-N-|-B-|-Q-|-K-|-B-| . |-R-|
+       +---+---+---+---+---+---+---+---+
+         a   b   c   d   e   f   g   h
+
+feature done=1
+Black(1): st 1
+search time set to 1.00.
+Black(1): move b7b6
+Crafty is behind 32.0 on time, reducing by 1/96.
+              time surplus   0.00  time limit 1.00 (+0.00) (1.00)
+              depth   time  score   variation (1)
+              time=1.31  mat=0  n=1954470  fh=91%  nps=1.5M
+              extensions=43K qchecks=37K reduced=202K pruned=612K
+              predicted=0  evals=735K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=1.31
+Black(1): Nc6
+              time used:   1.31

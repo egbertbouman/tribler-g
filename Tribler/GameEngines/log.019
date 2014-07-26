@@ -1,0 +1,37 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): time 60/1 
+60 moves/1 minutes primary time control
+60 moves/1 minutes secondary time control
+White(1): ponder off
+pondering disabled.
+White(1): output long
+output moves in long algebraic format
+White(1): move
+              time surplus   0.00  time limit 1.00 (+0.00) (6.00)
+              depth   time  score   variation (1)
+               11     0.20   0.18   1. Ng1f3 Nb8c6 2. Nb1c3 Ng8f6 3. e2e3
+                                    e7e5 4. Bf1b5 Bf8d6 5. O-O O-O 6. d2d3
+               11->   0.24   0.18   1. Ng1f3 Nb8c6 2. Nb1c3 Ng8f6 3. e2e3
+                                    e7e5 4. Bf1b5 Bf8d6 5. O-O O-O 6. d2d3
+               12     0.31   0.20   1. Ng1f3 Nb8c6 2. Nb1c3 Ng8f6 3. e2e3
+                                    e7e5 4. Bf1b5 Bf8d6 5. O-O O-O 6. d2d3
+                                    Rf8e8
+               12->   0.41   0.20   1. Ng1f3 Nb8c6 2. Nb1c3 Ng8f6 3. e2e3
+                                    e7e5 4. Bf1b5 Bf8d6 5. O-O O-O 6. d2d3
+                                    Rf8e8
+               13     0.80   0.06   1. Ng1f3 Nb8c6 2. Nb1c3 Ng8f6 3. e2e3
+                                    e7e6 4. Bf1d3 Bf8d6 5. O-O O-O 6. Nc3b5
+                                    Nc6b4 7. Nf3d4 Nb4xd3 8. Nb5xd6 Nd3xc1
+                                    9. Nd6xc8 Ra8xc8 10. Ra1xc1
+               13->   1.14   0.06   1. Ng1f3 Nb8c6 2. Nb1c3 Ng8f6 3. e2e3
+                                    e7e6 4. Bf1d3 Bf8d6 5. O-O O-O 6. Nc3b5
+                                    Nc6b4 7. Nf3d4 Nb4xd3 8. Nb5xd6 Nd3xc1
+                                    9. Nd6xc8 Ra8xc8 10. Ra1xc1
+              time=1.14  mat=0  n=1472759  fh=91%  nps=1.3M
+              extensions=17K qchecks=13K reduced=181K pruned=271K
+              predicted=0  evals=759K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=1.14
+White(1): Ng1f3
+              time used:   1.14

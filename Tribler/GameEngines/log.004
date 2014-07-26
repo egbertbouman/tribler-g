@@ -1,0 +1,32 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): ponder of
+Illegal move: of
+White(1): ponder off
+pondering disabled.
+White(1): time 1/0.1
+1 moves/0 minutes primary time control
+1 moves/0 minutes secondary time control
+White(1): b2b3
+              time used:  17.25
+time control reached (white)
+              time surplus   0.00  time limit 0.00 (+0.00) (0.00)
+              depth   time  score   variation (1)
+              time=0.02  mat=0  n=2809  fh=95%  nps=1.0M
+              extensions=8 qchecks=3 reduced=187 pruned=37
+              predicted=0  evals=1K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.02
+Black(1): Nc6
+              time used:   0.02
+time control reached (black)
+White(2): move c2c3
+              time surplus   0.00  time limit 0.00 (+0.00) (0.00)
+              depth   time  score   variation (1)
+              time=0.31  mat=0  n=65  fh=100%  nps=209
+              extensions=0 qchecks=0 reduced=0 pruned=0
+              predicted=0  evals=21  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=0.31
+White(2): Nf3
+              time used:   0.31
+time control reached (white)

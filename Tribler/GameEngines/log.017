@@ -1,0 +1,35 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): black
+              puzzling over a move to ponder.
+              depth   time  score   variation (1)
+               12     0.21  -0.25   1. ... Nc6 2. Nf3 Nf6 3. Nc3 e6 4.
+                                    e3 Bd6 5. Bd3 O-O 6. O-O Ng4 7. g3
+               12->   0.40  -0.25   1. ... Nc6 2. Nf3 Nf6 3. Nc3 e6 4.
+                                    e3 Bd6 5. Bd3 O-O 6. O-O Ng4 7. g3
+               13     0.81  -0.08   1. ... Nc6 2. Nf3 Nf6 3. Nc3 d5 4.
+                                    e3 e5 5. Bb5 d4 6. Bxc6+ bxc6 7. Ne2
+                                    dxe3 8. Nxe5
+               13->   1.29  -0.08   1. ... Nc6 2. Nf3 Nf6 3. Nc3 d5 4.
+                                    e3 e5 5. Bb5 d4 6. Bxc6+ bxc6 7. Ne2
+                                    dxe3 8. Nxe5
+               14     2.13  -0.13   1. ... Nc6 2. Nf3 Nf6 3. Nc3 e5 4.
+                                    e3 Bb4 5. Bb5 O-O 6. O-O d6 7. d4 Bd7
+                                    8. Bxc6 Bxc6 9. dxe5 Bxc3 10. bxc3
+               14->   2.63  -0.13   1. ... Nc6 2. Nf3 Nf6 3. Nc3 e5 4.
+                                    e3 Bb4 5. Bb5 O-O 6. O-O d6 7. d4 Bd7
+                                    8. Bxc6 Bxc6 9. dxe5 Bxc3 10. bxc3
+Black(1): Nc6 [pondering]
+              time surplus   0.00  time limit 30.00 (+0.00) (3:00)
+              depth   time  score   variation (1)
+               14     0.62  -0.26   2. Nf3 Nf6 3. Nc3 e5 4. e3 Bb4 5. Bb5
+                                    O-O 6. O-O d6 7. d4 <HT>
+               14->   1.74  -0.26   2. Nf3 Nf6 3. Nc3 e5 4. e3 Bb4 5. Bb5
+                                    O-O 6. O-O d6 7. d4 <HT>
+               15     3.51  -0.29   2. Nf3 Nf6 3. Nc3 e5 4. e3 e4 5. Nd4
+                                    Nxd4 6. exd4 Bb4 7. Be2 O-O 8. O-O
+                                    d5 9. d3
+               15->   6.66  -0.29   2. Nf3 Nf6 3. Nc3 e5 4. e3 e4 5. Nd4
+                                    Nxd4 6. exd4 Bb4 7. Be2 O-O 8. O-O
+                                    d5 9. d3

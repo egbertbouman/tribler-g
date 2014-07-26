@@ -1,0 +1,76 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): xboard
+White(1): time 60/1
+time remaining:   0.60 (Crafty).
+White(1): ponder off
+pondering disabled.
+White(1): go
+              time surplus   0.00  time limit 30.00 (+0.00) (3:00)
+              depth   time  score   variation (1)
+               11     0.25   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               11->   0.28   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               12     0.34   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               12->   0.45   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               13     0.86   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+               13->   1.30   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+               14     2.11   0.17   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. d4
+                                    d5 5. e5 Ne4 6. Nxe4 dxe4 7. Bg5 Bb4+
+                                    8. c3
+               14->   2.48   0.17   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. d4
+                                    d5 5. e5 Ne4 6. Nxe4 dxe4 7. Bg5 Bb4+
+                                    8. c3
+               15     4.52   0.30   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. e5
+                                    Nd5 5. Nxd5 exd5 6. d4 d6 7. Bd3 dxe5
+                                    8. dxe5 Bb4+ 9. Bd2
+               15->   5.04   0.30   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e6 4. e5
+                                    Nd5 5. Nxd5 exd5 6. d4 d6 7. Bd3 dxe5
+                                    8. dxe5 Bb4+ 9. Bd2
+               16     8.74   0.21   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6
+               16->  10.75   0.21   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6
+               17    24.41   0.40   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6 9. Bf4
+               17->  26.30   0.40   1. Nf3 Nc6 2. Nc3 Nf6 3. e4 e5 4. d4
+                                    exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+                                    O-O 8. O-O d6 9. Bf4
+              time=30.95  mat=0  n=43402191  fh=91%  nps=1.4M
+              extensions=732K qchecks=602K reduced=4.8M pruned=11.9M
+              predicted=0  evals=18.7M  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=30.95
+White(1): Nf3
+              time used:  30.95
+
+       +---+---+---+---+---+---+---+---+
+    8  |<R>|<N>|<B>|<Q>|<K>|<B>|<N>|<R>|
+       +---+---+---+---+---+---+---+---+
+    7  |<P>|<P>|<P>|<P>|<P>|<P>|<P>|<P>|
+       +---+---+---+---+---+---+---+---+
+    6  |   | . |   | . |   | . |   | . |
+       +---+---+---+---+---+---+---+---+
+    5  | . |   | . |   | . |   | . |   |
+       +---+---+---+---+---+---+---+---+
+    4  |   | . |   | . |   | . |   | . |
+       +---+---+---+---+---+---+---+---+
+    3  | . |   | . |   | . |-N-| . |   |
+       +---+---+---+---+---+---+---+---+
+    2  |-P-|-P-|-P-|-P-|-P-|-P-|-P-|-P-|
+       +---+---+---+---+---+---+---+---+
+    1  |-R-|-N-|-B-|-Q-|-K-|-B-| . |-R-|
+       +---+---+---+---+---+---+---+---+
+         a   b   c   d   e   f   g   h
+
+feature done=1

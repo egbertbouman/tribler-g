@@ -1,0 +1,48 @@
+
+Crafty v23.2 PS (1 cpus)
+
+White(1): time 60/1
+60 moves/1 minutes primary time control
+60 moves/1 minutes secondary time control
+White(1): ponder off
+pondering disabled.
+White(1): xboard
+White(1): white
+White(1): move
+              time surplus   0.00  time limit 1.00 (+0.00) (6.00)
+              depth   time  score   variation (1)
+               11     0.20   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               11->   0.23   0.18   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3
+               12     0.29   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               12->   0.40   0.20   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e5 4. Bb5
+                                    Bd6 5. O-O O-O 6. d3 Re8
+               13     0.79   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+               13->   1.21   0.06   1. Nf3 Nc6 2. Nc3 Nf6 3. e3 e6 4. Bd3
+                                    Bd6 5. O-O O-O 6. Nb5 Nb4 7. Nfd4 Nxd3
+                                    8. Nxd6 Nxc1 9. Nxc8 Rxc8 10. Rxc1
+              time=1.21  mat=0  n=1472759  fh=91%  nps=1.2M
+              extensions=17K qchecks=13K reduced=181K pruned=271K
+              predicted=0  evals=759K  50move=0  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=1.21
+White(1): Nf3
+              time used:   1.21
+feature done=1
+Black(1): move b7b6
+              time surplus   0.00  time limit 1.00 (+0.00) (6.00)
+              depth   time  score   variation (1)
+               13     0.71   0.22   1. ... Nc6 2. e4 Nf6 3. Nc3 e6 4. e5
+                                    Nd5 5. Nxd5 exd5 6. Bb5 Be7 7. O-O
+                                    O-O
+               13     1.03   0.06   1. ... Nf6 2. e3 Nc6 3. Nc3 e6 4. Bd3
+                                    Bc5 5. O-O O-O 6. a3 <HT>
+              time=1.03  mat=0  n=1392925  fh=91%  nps=1.4M
+              extensions=20K qchecks=15K reduced=166K pruned=344K
+              predicted=0  evals=643K  50move=1  EGTBprobes=0  hits=0
+              SMP->  splits=0  aborts=0  data=0/512  elap=1.03
+Black(1): Nf6
+              time used:   1.03

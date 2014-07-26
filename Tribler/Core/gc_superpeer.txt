@@ -1,0 +1,3 @@
+#ip, port, permid, [name]
+home.tribler-g.org, 8000, MFIwEAYHKoZIzj0CAQYFK4EEABoDPgAEAIXFVvAaeHboTYIHmffCkAjPlzFMAlw3+uGXuD5ZAQb1P9EMtVYtV0tgnxRr0TCwyol+uhQIl01ljBPl, Superpeer1
+apsone.st.ewi.tudelft.nl, 8765, MFIwEAYHKoZIzj0CAQYFK4EEABoDPgAEAPWhOTGUlfJFmwSFbIXMOaoX3ITMujieaWyVmZTSACXSC25P+pTEH2qLjIhZ1OE86x35O6lwAbRfvDbb, Superpeer2
