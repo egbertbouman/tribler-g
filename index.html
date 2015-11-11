@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Tribler-G gives you all the great futures that you are used to in Tribler, and adds the ability to play games. So now you can play a game of chess with your friends, while your downloads are running.">
+    <title>Tribler-G - It's Tribler, but with games!</title>
+
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/ua-parser.min.js"></script>
+    <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="js/jcarousel.basic.js"></script>
+  </head>
+
+  <body>
+    <h1>Tribler-G</h1>
+    <h2>It's Tribler, but with games!</h2>
+    <script type="text/javascript">
+      var parser = new UAParser();
+      var result = parser.getResult();
+      var osName = result.os.name.toLowerCase();
+      if (osName == "windows") {
+        document.writeln('<div class="button"><a href="https://github.com/egbertbouman/tribler-g/releases/download/5.3.8/Tribler-G_5.3.8.exe">Download Tribler-G</a></div>');
+      }
+      else if (jQuery.inArray(osName, new Array('kubuntu', 'xubuntu', 'lubuntu', 'ubuntu', 'gentoo', 'fedora', 'mandriva', 'redhat', 'suse', 'debian', 'slackware', 'arch', 'linux')) !== -1) {
+        document.writeln('<div class="button"><a href="https://github.com/egbertbouman/tribler-g/releases/download/5.3.8/Tribler-G_5.3.8.tar.gz">Download Tribler-G</a></div>');
+      }
+      else {
+        document.writeln('<div class="button"><a href="https://github.com/egbertbouman/tribler-g/releases">Download Tribler-G</a></div>');
+      }
+    </script>
+    <noscript><div class="button"><a href="https://github.com/egbertbouman/tribler-g/releases">Download Tribler-G</a></div></noscript>
+    <ul class="links">
+      <li>
+        <a href="https://github.com/egbertbouman/tribler-g">GitHub project</a>
+      </li>
+      <li>
+        <a href="manual.pdf">Get started</a>
+      </li>
+      <li>
+        <a href="publications/Tribler-G%20A%20Decentralized%20Social%20Network%20for%20Playing%20Chess%20Online%20(MSc%20thesis).pdf">MSc thesis</a>
+      </li>
+      <li>
+        <a href="publications/Tribler-G%20A%20Decentralized%20Social%20Network%20for%20Playing%20Chess%20Online%20(paper).pdf">Paper</a>
+      </li>
+      <li>
+        Version 5.3.8
+      </li>
+    </ul>
+    <br>
+    <div class="wrapper">
+      <div class="jcarousel-wrapper">
+        <div class="jcarousel">
+          <ul>
+            <li><img src="img/screenshot1.png" width="600" height="393" alt=""></li>
+            <li><img src="img/screenshot2.png" width="600" height="393" alt=""></li>
+            <li><img src="img/screenshot3.png" width="600" height="393" alt=""></li>
+            <li><img src="img/screenshot4.png" width="600" height="393" alt=""></li>
+            <li><img src="img/screenshot5.png" width="600" height="393" alt=""></li>
+            <li><img src="img/screenshot6.png" width="600" height="393" alt=""></li>
+            <li><img src="img/screenshot7.png" width="600" height="393" alt=""></li>
+          </ul>
+        </div>
+        <a href="#" class="jcarousel-control-prev">&lsaquo;</a>
+        <a href="#" class="jcarousel-control-next">&rsaquo;</a>
+        <p>Tribler-G gives you all the great futures that you are used to in Tribler,<br>
+        and adds the ability to play games. So now you can play a game of chess with your<br>
+        friends, while your downloads are running.</p>
+      </div>
+    </div>	
+  </body>
+</html>
